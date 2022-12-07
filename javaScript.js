@@ -6,7 +6,7 @@ let textareaCont = document.querySelector(".textarea-cont");
 let allPriorityColor = document.querySelectorAll(".priority-color");
 let toolboxColor = document.querySelectorAll(".color");
 
-let colors = ["lightpink", "lightblue", "lightgreen", "black"];
+let colors = ["red", "blue", "green", "black"];
 let modalPriorityColor = colors[colors.length - 1];
 
 let addFlag = false;
